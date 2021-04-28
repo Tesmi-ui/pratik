@@ -1,0 +1,124 @@
+.arrange {
+  margin-top: -31.2%;
+  margin-left: 60%;
+}
+.nd {
+  margin: ;
+  margin-top: ;
+}
+.st {
+  background: cover;
+  background-position: 100%;
+  font-family: sans-serif;
+  width: 1200px;
+}
+.d {
+  margin-top: 12%;
+}
+header {
+  border: border-box;
+  border-color: green;
+  padding: 20px;
+  margin: 20px;
+  word-specing: 100px;
+  font-family: sans-serif;
+  position: fixed;
+  top: 5px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 25px 0 black;
+  background-size: cover;
+}
+h2 {
+  color: blue;
+  onhover: blue;
+}
+h4 {
+  color: green;
+  margin-left: 2%;
+  margin-top: 5%;
+  width: 1200px;
+}
+
+button {
+  text-align: center;
+  border: 2px solid red;
+  width: 200px;
+  height: 100px;
+}
+
+body {
+  background-color: lightblue;
+  background: border-box;
+  background-image: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: ;
+}
+#my-canvas {
+  width: 1200px;
+  background: border-box;
+  background-image: url("images/background.jpg");
+  background-position: 100%;
+  background-repeat: no-repeat;
+  box-sizing: 200px;
+  box-shadow: 0.7%;
+  border-radius: 0.7%;
+  margin-top: 8%;
+}
+#kick {
+  background: border-box;
+  background-position: 100%;
+  border-style: 1px 1px 1px 1px;
+  border-color: skyblue;
+  box-sizing: 1px;
+  box-shadow: 0.7px;
+  background: border-box;
+  margin-left: 85%;
+  color: red;
+  border-radius: 50%;
+}
+#punch {
+  background: border-box;
+  background-position: 100%;
+  border-style: 1px 1px 1px 1px;
+  border-color: skyblue;
+  box-sizing: 2px;
+  box-shadow: 0.7px;
+  margin-left: 85%;
+  size: 50px;
+  color: green;
+  border-radius: 50%;
+}
+#block {
+  background-position: 100%;
+  border-style: 1px 1px 1px 1px;
+  border-color: skyblue;
+  box-sizing: 2px;
+  box-shadow: 0.7px;
+  margin-left: 100%;
+  color: blue;
+  background: border-box;
+  size: 12px;
+  border-radius: 50%;
+}
+#forward {
+  color: orange;
+  border-color: skyblue;
+  box-sizing: 1px;
+  box-shadow: 6px;
+  background: border-box;
+  border-radius: 5%;
+}
+#backward {
+  color: purple;
+  background: border-box;
+  background-position: 10%;
+  border-style: 1px 1px 1px 1px;
+  border-color: skyblue;
+  box-sizing: 10px;
+  box-shadow: 100px;
+  border-radius: 5%;
+  margin-top: 25%;
+}
